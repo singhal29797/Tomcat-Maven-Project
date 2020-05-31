@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [01/Jun/2020:03:36:31 +0530] "GET / HTTP/1.1" 200 1453 http-bio-8080-exec-2 1118
+0:0:0:0:0:0:0:1 - - [01/Jun/2020:03:36:31 +0530] "GET /css/styles.css HTTP/1.1" 200 1729 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [01/Jun/2020:03:36:32 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [01/Jun/2020:03:44:43 +0530] "GET /?emailId=singhl&password=ssdf&actionType=Sign+In HTTP/1.1" 200 1453 http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [01/Jun/2020:03:45:03 +0530] "GET /?emailId=singhal29797shivam%40gmail.com&password=shiVAM%40123&actionType=Sign+In HTTP/1.1" 200 1453 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [01/Jun/2020:03:45:13 +0530] "GET /?emailId=singhal29797shivam%40gmail.com&password=%2C.%2F123..0&actionType=Sign+Up HTTP/1.1" 200 1453 http-bio-8080-exec-10 6
